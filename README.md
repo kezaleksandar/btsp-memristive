@@ -22,4 +22,6 @@ Prerequisites to run the code/models:
 Instructions to run the code/models:
 1) Clone or download the repository.
 2) Open MATLAB and set Current Folder to the root directory of this repository.
-3) For each representation, first run the corresponding .m file (if any) to load the parameters into the Workspace, and the run the Simulink model simulation
+3) For each representation, first run the corresponding .m file (if any) to load the parameters into the Workspace, and then run the Simulink model simulation.*
+
+   *for memristive representation, run the memristance_extraction_from_simulink.m file AFTER running the Simulink simulation.
