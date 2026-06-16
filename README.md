@@ -6,14 +6,11 @@ This repository contains MATLAB code and Simulink models for ongoing research wi
 
 In this repository you will find:
 
-1) Systems representation of a single synapse (under "systems-approach")
-   Representation of the model using standard Simulink blocks.
+1) Systems representation of a single synapse (under "systems-approach"): Representation of the model using standard Simulink blocks.
    
-2) Electrical representation of a single synapse (under "electrical")
-   Representation of the model using standard analog electronic components. This representation could serve as an alternative to a memristive implementation, with       some necessary improvements regarding the implementation of accurate constants.
+2) Electrical representation of a single synapse (under "electrical"): Representation of the model using standard analog electronic components. This representation could serve as an alternative to a memristive implementation, with some necessary improvements regarding the implementation of accurate constants.
 
-3) Memristive representation - initial stage (under "memristive")
-   The initial stage of a memristive representation of the model. This section is currently being developed.
+3) Memristive representation - initial stage (under "memristive"): The initial stage of a memristive representation of the model. This section is currently being developed.
 
 Prerequisites to run the code/models:
 1) MATLAB (the version used was MATLAB R2024a)
